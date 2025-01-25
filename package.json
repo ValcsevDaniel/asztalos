@@ -1,0 +1,19 @@
+{
+  "name": "asztalos-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValcsevDaniel/asztalos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValcsevDaniel/asztalos/issues"
+  },
+  "homepage": "https://github.com/ValcsevDaniel/asztalos#readme",
+  "description": ""
+}
